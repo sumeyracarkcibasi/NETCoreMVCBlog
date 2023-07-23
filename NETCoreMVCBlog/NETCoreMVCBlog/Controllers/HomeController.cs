@@ -14,7 +14,7 @@ namespace NETCoreMVCBlog.Controllers
         }
 
         public IActionResult Index()
-        {
+        { 
             return View();
         }
 
